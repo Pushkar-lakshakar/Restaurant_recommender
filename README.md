@@ -21,7 +21,9 @@ A Flask-based web application that helps users discover personalized restaurant 
 ```
 CDC project/
 ├── Code/
-│   ├── app1.py                         
+│   ├── app1.py
+│   ├── zomato.csv
+│   ├── restaurant1.csv                            
 │   ├── restaurant1_cleaned.csv        
 │   ├── CONTENT_BASE_RECOMMENDER_SYSTEM.ipynb
 │   ├── Data_Collection_Preprocessing.ipynb
