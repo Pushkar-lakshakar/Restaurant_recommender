@@ -43,7 +43,7 @@ CDC project/
 
 ### 1. Clone or Download the Project
 ```bash
-git clone https://your-repo-url.git
+git clone https://github.com/Pushkar-lakshakar/Restaurant_recommender/tree/main.git
 cd Code
 ```
 
