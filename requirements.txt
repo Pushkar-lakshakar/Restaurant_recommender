@@ -11,3 +11,4 @@ nltk>=3.6.0          # (min. ver 3.6.0)
 matplotlib>=3.4.0    # (min. ver 3.4.0)
 seaborn>=0.11.0      # (min. ver 0.11.0)
 plotly>=5.1.0        # (min. ver 5.1.0)
+```
